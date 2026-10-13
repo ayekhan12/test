@@ -1,4 +1,1 @@
 Hello from my terminal
-Added from GitHub web editor.
-Added from the terminal
-This line was built on my experimental branch.
