@@ -1,2 +1,3 @@
 Hello from my terminal
 Added from GitHub web editor.
+Added from the terminal
